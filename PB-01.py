@@ -1,0 +1,1 @@
+print("Todo el codigo de front de la pagina" )
